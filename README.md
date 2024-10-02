@@ -1,4 +1,4 @@
-# Untitled
+# D3-Researcher-Visualization
 
 https://observablehq.com/d/7c2e8265472a696e@229
 
@@ -31,4 +31,3 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
-# D3-Researcher-Visualization
