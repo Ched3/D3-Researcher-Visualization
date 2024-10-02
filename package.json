@@ -1,0 +1,14 @@
+{
+  "name": "7c2e8265472a696e",
+  "main": "7c2e8265472a696e@229.js",
+  "version": "229.0.0",
+  "homepage": "https://observablehq.com/d/7c2e8265472a696e",
+  "author": {
+    "name": "Edison Chen",
+    "url": "https://observablehq.com/@edison-chen"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
